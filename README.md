@@ -4,6 +4,6 @@
 </div>
 
 ## 
-<h2>📝 Landing page responsiva, desenvolvida com:</h2>
+<h2>📝 Landing page responsiva, onde desenvolvi meus conhecimentos com:</h2>
 <img width ="70px" src = "https://img.shields.io/badge/HTML-9c0720?style=for-the-badge&logo=html5&logoColor=white"> 
 <img width ="70px" src ="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white">
